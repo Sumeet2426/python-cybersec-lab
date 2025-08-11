@@ -8,11 +8,11 @@ Built for ethical hackers, students, and anyone who wants to sharpen their skill
 ---
 
 ## 📂 Projects
---------------------------------------------------------------------------------------------
-1.  IP Reader                        Reads and validates IP addresses. 
-2.  Port Scanner                     Scans open ports on a given host using `socket`.
-3.  Web Directory Bruteforcer        Finds hidden directories using a wordlist. 
-4.  Login Bruteforcer                Performs dictionary attacks on login forms. 
+
+1.  IP Reader  -  Reads and validates IP addresses. 
+2.  Port Scanner  -  Scans open ports on a given host using `socket`.
+3.  Web Directory Bruteforcer  -  Finds hidden directories using a wordlist. 
+4.  Login Bruteforcer  -  Performs dictionary attacks on login forms. 
 
 ---
 
