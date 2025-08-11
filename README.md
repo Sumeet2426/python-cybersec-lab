@@ -26,6 +26,8 @@ cd Python-cybersec-lab
 pip install -r requirements.txt
 ```
 
+---
+
 ## 🚀 Usage
 ```bash
 python project_01_ip_reader/ip_reader.py
