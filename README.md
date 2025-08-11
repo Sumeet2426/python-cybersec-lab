@@ -23,8 +23,8 @@ git clone https://github.com/Sumeet2426/Python-cybersec-lab.git
 cd Python-cybersec-lab
 
 # Install dependencies
-pip install -r requirements.txT
+pip install -r requirements.txT```
 
----
+kskskks
 
 
