@@ -23,8 +23,17 @@ git clone https://github.com/Sumeet2426/Python-cybersec-lab.git
 cd Python-cybersec-lab
 
 # Install dependencies
-pip install -r requirements.txT```
+pip install -r requirements.txt
+```
 
-kskskks
+## 🚀 Usage
+```bash
+python project_01_ip_reader/ip_reader.py
+python project_02_port_scanner/port_scanner.py
+python project_03_web_dir_bruteforce/dir_bruteforce.py
+python project_04_login_bruteforcer/login_bruteforcer.py
+```
+
+
 
 
